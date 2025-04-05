@@ -1,8 +1,3 @@
-## Introduction
-
-### At day time, I am a robotics software engineer who dedicates in developing the next generation of surgical robotics application software to improve surgery accuracy and shorten recovery time for patients. At night, I am a full stack software engineer who develops peronal projects in the scope of web service, low-level library, Android application etc. Coding is part of my life.
----
-
 ### Portfolio
 
 [Portfolio Link](https://zilinli0130.wixsite.com/mysite/)
