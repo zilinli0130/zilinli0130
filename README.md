@@ -1,8 +1,3 @@
-### Portfolio
-
-[Portfolio Link](https://zilinli0130.wixsite.com/mysite/)
----
-
 ## Area of Interest
 
 1. Web Service / Distributed System
